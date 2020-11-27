@@ -1,2 +1,2 @@
 # Titanic-Data-Analysis
-Using pandas, matplotlib, seaborn, sklearn ,numpy  for  titanic data analysis.
+Using Pandas, Matplotlib, Seaborn, Sklearn ,Numpy  for  Titanic Data Analysis.
